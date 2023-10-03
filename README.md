@@ -1,2 +1,11 @@
 # KeyPressDetector
-A simple algorithm made in Rust to detect keyboard inputs.
+
+This is a simple Rust project that detects key presses and displays them on the terminal.
+
+## Running the Project
+
+To run the project, you can use the `cargo run` command. Make sure you have Rust and Cargo installed on your system.
+
+```bash
+cargo run
+```
